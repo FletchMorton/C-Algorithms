@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673036036 source:c:\users\fletcher\documents\fletcher's docs\code\c\algorithms\merge sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

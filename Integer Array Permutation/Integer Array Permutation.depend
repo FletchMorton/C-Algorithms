@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664948999 source:c:\users\morto\desktop\integer array permutation\main.c
+	<stdlib.h>
+	<stdio.h>
+

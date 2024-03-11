@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672979793 source:c:\users\fletcher\documents\fletcher's docs\code\c\algorithms\insertion sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

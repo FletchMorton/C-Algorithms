@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664948716 source:c:\users\morto\desktop\string permutation\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

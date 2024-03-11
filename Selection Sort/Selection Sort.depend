@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672976230 source:c:\users\fletcher\documents\fletcher's docs\code\c\algorithms\selection sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
